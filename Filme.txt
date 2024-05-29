@@ -1,0 +1,10 @@
+2,Viata,Comedie,Emy,2024,1,27
+3,Forest Gump ,Comedie,liviu,1985,57,240
+4,Viata,Comedie,Liviu,1982,3,3
+67,Amne,Actiune,Liviu,2026,65,45
+56,Liviu,Liviu,Liviu,2025,65,40
+23,Facas,Comedie,Liviud,1982,3,2
+23,Facas,Comedie,Liviu,1982,3,2
+312,Facas,comedie,Andrei,1982,4,4
+12,Odyssey,acrtune,Mes,12,3,2
+342,Forest Gump,Comedie,Robert Zemeckis,1994,1,8

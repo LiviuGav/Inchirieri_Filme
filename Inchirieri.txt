@@ -1,0 +1,30 @@
+ID Inchiriere: 4
+Client: gava emds
+Telefon: sad
+Email: dsa
+Adresa: sd
+Film: Viata
+Regizor: Liviu
+Data inceperii: 2024-5-28
+Data sfarsit: 2024-10-10
+Pret total: 12
+ID Inchiriere: 2
+Client: gaba e 
+Telefon:  ads
+Email:  sad
+Adresa:  sad
+Film: Viata
+Regizor: Liviu
+Data inceperii: 2024-10-19
+Data sfarsit: 2024-12-24
+Pret total: 6
+ID Inchiriere: 3
+Client: gava liviu 
+Telefon:  ads
+Email:  sad
+Adresa:  ass
+Film: Odyssey
+Regizor: Mes
+Data inceperii: 2024-7-21
+Data sfarsit: 2024-9-18
+Pret total: 2

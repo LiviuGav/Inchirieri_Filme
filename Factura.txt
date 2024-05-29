@@ -1,0 +1,8 @@
+Nume client: alex gava 
+Nume film: Forest Gump
+Regizor: Robert Zemeckis
+Data Inchirierii: 2024-8-19
+Data emiterii: 2024-10-24
+Suma platita(RON): 14.8
+Modalitate plata: Card
+-----------------------------

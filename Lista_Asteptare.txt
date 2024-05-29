@@ -1,0 +1,4 @@
+Liviu,Facas,Andrei,0474,li
+Malaca,Facas,Andrei,0474,li
+Liviu,Viata,Emy,0745,ads
+Malaca1,Facas,Andrei,0474,li
